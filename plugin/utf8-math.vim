@@ -76,6 +76,8 @@ imap <buffer> \supseteq ⊇
 imap <buffer> \setminus ∖
 imap <buffer> \cap ∩
 imap <buffer> \cup ∪
+imap <buffer> \bigcap ⋂ 
+imap <buffer> \bigcup ⋃
 imap <buffer> \int ∫
 imap <buffer> \therefore ∴
 imap <buffer> \qed ∎
@@ -96,7 +98,7 @@ imap <buffer> =: ≕
 imap <buffer> \ne ≠
 imap <buffer> \approx ≈
 imap <buffer> \perp ⊥
-imap <buffer> \not ̷
+imap <buffer> \not ¬
 imap <buffer> \ldots …
 imap <buffer> \cdots ⋯
 imap <buffer> \cdot ⋅
