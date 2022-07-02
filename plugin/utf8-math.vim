@@ -76,7 +76,7 @@ imap <buffer> \supseteq ⊇
 imap <buffer> \setminus ∖
 imap <buffer> \cap ∩
 imap <buffer> \cup ∪
-imap <buffer> \bigcap ⋂ 
+imap <buffer> \bigcap ⋂
 imap <buffer> \bigcup ⋃
 imap <buffer> \int ∫
 imap <buffer> \therefore ∴
