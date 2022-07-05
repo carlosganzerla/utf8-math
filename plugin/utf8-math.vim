@@ -57,6 +57,7 @@ imap <buffer> <==> ⇔
 imap <buffer> \forall ∀
 imap <buffer> \exists ∃
 imap <buffer> \in ∈
+imap <buffer> \notin ∉
 imap <buffer> \empty ∅
 imap <buffer> \prod ∏
 imap <buffer> \sum ∑
