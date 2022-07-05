@@ -91,6 +91,7 @@ imap <buffer> := ≔
 imap <buffer> =: ≕
 imap <buffer> \ne ≠
 imap <buffer> \approx ≈
+imap <buffer> \equiv ≡
 imap <buffer> \perp ⊥
 imap <buffer> \not ¬
 imap <buffer> \ldots …
