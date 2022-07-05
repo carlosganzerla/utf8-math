@@ -1,10 +1,4 @@
-﻿setlocal fileencoding=utf-8
-setlocal bomb
-setlocal formatprg=par\ 60l
-setlocal ai et ts=3 sw=3 sta
-setlocal tw=60
-
-" Some nice text formatting first
+﻿" Some nice text formatting first
 imap <buffer> ' ’
 imap <buffer> ` ‘
 imap <buffer> `` “
