@@ -54,6 +54,7 @@ imap <buffer> <== ⇐
 imap <buffer> <==> ⇔
 
 " Mathematical symbols, LaTeX style
+imap <buffer> \sqrt √
 imap <buffer> \forall ∀
 imap <buffer> \exists ∃
 imap <buffer> \in ∈
